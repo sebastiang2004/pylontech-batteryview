@@ -1,2 +1,2 @@
-Applicaton for Console communication for Pylontech USXXXX batteries.
-I don't own the software.
+Console communication software for Pylontech USXXXX batteries.
+Please refer to the connection diagram for DIY cable.
